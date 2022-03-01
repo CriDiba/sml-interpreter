@@ -1,6 +1,6 @@
 # sml-interpreter
 
-Project for Foundations of Security course, University of Verona.
+Project for Foundations of Language course, University of Verona.
 
 The contains the SML code of interpreter, type-checker and pretty-printer for a simple imperative language.
 
